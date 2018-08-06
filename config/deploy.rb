@@ -2,7 +2,7 @@
 lock '3.7.1'
 
 set :application, 'admin'
-set :repo_url, 'git@github.com:andreylujan/Moller-Administrador.git'
+set :repo_url, 'git@github.com:AndresForonda/Moller-Administrador.git'
 set :branch, 'master'
 
 #set :ssh_options, {
